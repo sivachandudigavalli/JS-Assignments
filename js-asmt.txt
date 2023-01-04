@@ -1,2 +1,2 @@
-// the hello world programe
+// the hello world program,this is first program
 console.log('Hello World');
